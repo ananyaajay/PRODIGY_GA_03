@@ -2,15 +2,14 @@
 
 # Text Generation with Markov Chains 🤖
 
-Implementation of a simple text generation algorithm using Markov Chains. This task involvescreating a statistical model that predicts the probability of a characteror word based on the previos one(s).
-
+Implementation of a simple text generation algorithm using Markov Chains. This task involves creating a statistical model that predicts the probability of a character or word based on the previous one(s).
 This Python script implements a simple first-order Markov Chain for text generation. It builds a word-based transition dictionary from input text, then generates randomized sentences by probabilistically selecting each next word. Features include modular functions, random selection, and customizable output length, illustrating basic probabilistic modeling and natural language processing concepts.
 
 ## ✓ Features:
 
 • Simplicity (accessible for beginners in NLP and Python)
 
-•First-order Markov Chain
+• First-order Markov Chain
 
 • Randomized Text Generation
 
@@ -18,7 +17,7 @@ This Python script implements a simple first-order Markov Chain for text generat
 
 • Dictionary-based State Storage
 
-•Customizable Output
+• Customizable Output
 
 • Deterministic Training, Random Generation
 
