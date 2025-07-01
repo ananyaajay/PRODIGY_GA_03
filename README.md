@@ -27,17 +27,17 @@ This Python script implements a simple first-order Markov Chain for text generat
 
 • Markov Chain Principle: Utilizes the Markov property, where the next state (word) depends only on the current state, not the sequence of events that preceded it.
 
-• Probabilistic Text Generation: Generates new text sequences by randomly selecting the next word based on learned transition probabilities.
+• Probabilistic Text Generation
 
-• Dictionary Data Structure: Employs dictionaries to efficiently map each word to its possible following words, allowing fast lookups during generation.
+• Dictionary Data Structure
 
-• Randomness and Non-Determinism: Uses random.choice() to introduce variability, ensuring that generated text can differ with each execution.
+• Randomness and Non-Determinism
 
-• Graceful Handling of Edge Cases: Handles scenarios where a given word has no successors, preventing errors and stopping generation as needed.
+• Graceful Handling of Edge Cases
 
-• Simple Natural Language Processing (NLP): Demonstrates foundational NLP by splitting text and modeling word relationships.
+• Simple Natural Language Processing (NLP)
 
-• Customizability: Allows the user to specify starting word and length, offering control over the generated output.
+• Customizability: 
 
 
 ## ✓ Highlights:
