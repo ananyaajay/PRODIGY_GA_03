@@ -36,7 +36,7 @@ This Python script implements a simple first-order Markov Chain for text generat
 
 • Simple Natural Language Processing (NLP)
 
-• Customizability: 
+• Customizability
 
 
 ## ✓ Highlights:
