@@ -1,12 +1,12 @@
 # PRODIGY_GA_03
 
-# Text Generation with Markov Chains
+# Text Generation with Markov Chains 🤖
 
 Implementation of a simple text generation algorithm using Markov Chains. This task involvescreating a statistical model that predicts the probability of a characteror word based on the previos one(s).
 
 This Python script implements a simple first-order Markov Chain for text generation. It builds a word-based transition dictionary from input text, then generates randomized sentences by probabilistically selecting each next word. Features include modular functions, random selection, and customizable output length, illustrating basic probabilistic modeling and natural language processing concepts.
 
-## Features:
+## ✓ Features:
 
 • Simplicity (accessible for beginners in NLP and Python)
 
@@ -23,7 +23,7 @@ This Python script implements a simple first-order Markov Chain for text generat
 • Deterministic Training, Random Generation
 
 
-## Concepts Used:
+## ✓ Concepts Used:
 
 • Markov Chain Principle: Utilizes the Markov property, where the next state (word) depends only on the current state, not the sequence of events that preceded it.
 
@@ -40,7 +40,7 @@ This Python script implements a simple first-order Markov Chain for text generat
 • Customizability: Allows the user to specify starting word and length, offering control over the generated output.
 
 
-## Highlights:
+## ✓ Highlights:
 
 • Compact Implementation with Core NLP Principle
 
